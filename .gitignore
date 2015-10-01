@@ -67,3 +67,4 @@ $RECYCLE.BIN/
 bin/org/gradle/resource.xml
 *.xml
 *.MF
+/build/
