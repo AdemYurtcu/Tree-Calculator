@@ -57,3 +57,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.properties
+.classpath
+*.lock
+.gradle/2.2.1/taskArtifacts/fileHashes.bin
+*.bin
+.project
+*.prefs
+bin/org/gradle/resource.xml
+*.xml
+*.MF
