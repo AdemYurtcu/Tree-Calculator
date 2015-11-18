@@ -1,6 +1,6 @@
 package com.foreks.feed;
 
-import org.gradle.MyTreeSetImpl;
+ import com.foreks.feed.MyTreeSetImpl;
 
 public interface Operator {
     public double calculate(MyTreeSetImpl<String> tree);

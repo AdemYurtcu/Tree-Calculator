@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
-import org.gradle.MyTreeSetImpl;
+import com.foreks.feed.MyTreeSetImpl;
 
 public class Calculator {
 
